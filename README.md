@@ -1,0 +1,1 @@
+A customizable Password Generator App built with HTML, CSS, and JavaScript. It allows users to generate secure passwords by selecting length, uppercase, lowercase, numbers, and symbols. The app also evaluates password strength with a visual indicator and provides a one-click copy-to-clipboard feature.
